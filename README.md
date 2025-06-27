@@ -4,6 +4,12 @@
 
 ---
 
+## Project Presentation
+
+https://www.youtube.com/watch?v=mGLwPotpw1g
+
+---
+
 ## Abstract
 
 This project explores the application of deep learning techniques to predict joint rotation and translation dynamics using motion capture data from the [SFU Motion Capture Database](https://mocap.cs.sfu.ca/). The specific dataset used is the [`0008_ChaCha001.fbx`](https://mocap.cs.sfu.ca/nusmocap/0008_ChaCha001.fbx), processed and exported as a CSV file containing detailed motion capture data of human joint movements. The dataset spans 25,998 frames and captures translational and rotational dynamics of joints like hips, legs, feet, spine, and upper body segments.
